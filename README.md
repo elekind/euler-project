@@ -1,2 +1,2 @@
-#389 platonic dice
+#389 platonic dice \n
 #786 Billiard
