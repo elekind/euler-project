@@ -1,3 +1,3 @@
-#389 platonic dice
+#389 Platonic Dice
 
 #786 Billiard
