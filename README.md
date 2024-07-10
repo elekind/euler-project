@@ -7,7 +7,7 @@ Consider the circle to be of radius $r$, swimmer's velocity $1$ and runner's vel
 $$ 
 
 $$\omega = v/r$$ 
-At a radius of $v_{r}/\omega$, the swimmer's angular velocity will be equal to the runner's. Outside it, it will be lesser and the runner can catch up to the swimmer's angular displacement; inside it the swimmer can outpace the runner's angular displacement. Meaning, the swimmer can always get to the point on the inner circle opposite to the runner  while staying within $v_{r}/\omega$. 
+At a radius of $1/v_{r}$, the swimmer's angular velocity will be equal to the runner's. Outside it, it will be lesser and the runner can catch up to the swimmer's angular displacement; inside it the swimmer can outpace the runner's angular displacement. Meaning, the swimmer can always get to the point on the inner circle opposite to the runner  while staying within $v_{r}/\omega$. 
 
 In a race, the swimmer is at the centre and the runner at the edge. The swimmer should therefore swim towards the runner's shadow (point opposite runner) on the circle of radius $v_{r}/\omega$. On reaching it, the swimmer should dash straight to the edge. Going in any other direction means that he will lose in angular displacement to the runner.
 
