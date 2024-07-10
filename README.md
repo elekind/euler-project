@@ -3,7 +3,7 @@
 [#761 Runner and Swimmer](https://projecteuler.net/problem=761) (Difficulty 90%)
 
 
-Consider the circle to be of radius $r$, swimmer's velocity $1$ and runner's velocity $v_{r}$. $$v = r.\omega
+Consider the circle to be of radius $1$, swimmer's velocity $1$ and runner's velocity $v_{r}$. $$v = r.\omega
 $$ 
 
 $$\omega = v/r$$ 
@@ -29,7 +29,6 @@ Therefore,
 
 $$\vec S_{new}  = \vec S + \dfrac { \vec M -  \vec S}{ |{\vec M -  \vec S}|}.1.dt$$
 
-The circle's radius can be considered $1$, swimmer's velocity $1$ and runner's velocity $v_{r}$. 
 $v_{r}$ can be converged upon as the final distance between swimmer and runner $|\vec S - \vec R|$ converges to $0$ and $dt$ is made smaller.
 
 
