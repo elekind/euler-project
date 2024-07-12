@@ -7,11 +7,9 @@ Consider the circle to be of radius $1$, swimmer's velocity $1$ and runner's vel
 $$ 
 
 $$\omega = v/r$$ 
-At a radius of $1/v_{r}$, the swimmer's angular velocity will be equal to the runner's. Outside it, it will be lesser and the runner can catch up to the swimmer's angular displacement; inside it the swimmer can outpace the runner's angular displacement. Meaning, the swimmer can always get to the point on the inner circle opposite to the runner  while staying within $1/v_{r}$. 
+At a radius of $1/v_{r}$, the swimmer's angular velocity will be equal to the runner's. Outside it, it will be lesser and the runner can catch up to the swimmer's angular displacement; inside it the swimmer can outpace the runner's angular displacement.
 
 In a race, the swimmer is at the centre and the runner at the edge. The swimmer should therefore swim towards the runner's shadow (point opposite runner) on the circle of radius $1/v_{r}$. On reaching it, the swimmer should dash straight to the edge. Going in any other direction means that he will lose in angular displacement to the runner.
-
-For a square, the runner can be projected on the circle inscribed in the square and angular velocity calculated from it. Unlike the circle of radius $1/v_{r}$ in the first case, a petal like shape protruding towards the square's vertices is obtained. Similarly, for the hexagon.
 
 Consider the swimmer's position to be $\vec S$, runner's shadow's position to be $\vec {R
 ^\prime}$. Let $\vec {R
@@ -31,6 +29,7 @@ $$\vec S_{new}  = \vec S + \dfrac { \vec M -  \vec S}{ |{\vec M -  \vec S}|}.1.d
 
 $v_{r}$ can be converged upon as the final distance between swimmer and runner $|\vec S - \vec R|$ converges to $0$ and $dt$ is made smaller.
 
+For a square, the runner can be projected on the circle inscribed in the square and angular velocity calculated from it. Unlike the circle of radius $1/v_{r}$ in the first case, a petal like shape protruding towards the square's vertices is obtained. Similarly, for the hexagon.
 
 [#786 Billiard](https://projecteuler.net/problem=389)
 
