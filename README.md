@@ -3,10 +3,11 @@
 [#761 Runner and Swimmer](https://projecteuler.net/problem=761) (Difficulty 90%)
 
 
-Consider the circle to be of radius $1$, swimmer's velocity $1$ and runner's velocity $v_{r}$. $$v = r.\omega
-$$ 
+Consider the circle to be of radius $1$, swimmer's velocity $1$ and runner's velocity $v_{r}$. 
+$$v = r.\omega$$ 
 
 $$\omega = v/r$$ 
+
 At a radius of $1/v_{r}$, the swimmer's angular velocity will be equal to the runner's. Outside it, it will be lesser and the runner can catch up to the swimmer's angular displacement; inside it the swimmer can outpace the runner's angular displacement.
 
 In a race, the swimmer is at the centre and the runner at the edge. The swimmer should therefore swim towards the runner's shadow (point opposite runner) on the circle of radius $1/v_{r}$. On reaching it, the swimmer should dash straight to the edge. Going in any other direction means that he will lose in angular displacement to the runner.
