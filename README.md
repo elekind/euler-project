@@ -1,5 +1,7 @@
 [#389 Platonic Dice](https://projecteuler.net/problem=389)
 
+The distribution of the sum $S$ of $n$ $k$-sided dice can be found by brute-force summation of probabilites for each case, which can be defined as a function. Once done, the values and their probabilities can be stored as an n-heap or b-tree. As each node down is traversed, the probabilites are multiplied for each value. The variance can be found from the probability distribution at the end.
+
 [#761 Runner and Swimmer](https://projecteuler.net/problem=761) (Difficulty 90%)
 
 
