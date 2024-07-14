@@ -3,7 +3,8 @@
 [#761 Runner and Swimmer](https://projecteuler.net/problem=761) (Difficulty 90%)
 
 
-Consider the circle to be of radius $1$, swimmer's velocity $1$ and runner's velocity $v_{r}$. 
+Consider the circle to be of radius $1$, swimmer's velocity $1$ and runner's velocity $v_{r}$.
+
 $$v = r.\omega$$ 
 
 $$\omega = v/r$$ 
