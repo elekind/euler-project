@@ -34,7 +34,7 @@ $$\vec S_{new}  = \vec S + \dfrac { \vec M -  \vec S}{ |{\vec M -  \vec S}|}.1.d
 $v_{r}$ can be converged upon as the final distance between swimmer and runner $|\vec S - \vec R|$ converges to $0$ and $dt$ is made smaller.
 
 For a square, the runner can be projected on the circle inscribed in the square and angular velocity calculated from it. Unlike the circle of radius $1/v_{r}$ in the first case, a petal like shape protruding towards the square's vertices is obtained. Similarly, for the hexagon.
-
+![photo_6091554658993683473_y](https://github.com/user-attachments/assets/379191cf-dd3f-4b75-b68f-fd0e1631b0e4)
 [#786 Billiard](https://projecteuler.net/problem=389)
 
 
